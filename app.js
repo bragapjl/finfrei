@@ -41,4 +41,5 @@ do
 
     }
 } while(Menu != 5)
+console.log('valeu por usar o banco chefe, tmj');
 console.log('FIM DO PROGRAMA.')
